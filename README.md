@@ -17,8 +17,7 @@
 
 ---
 ## 🎬 Demo
-
-![](demo-video/VIDEO_e38478a9-a564-4d7d-bb65-74d0fdeb151d.mp4)
+[![Watch Demo Video](https://img.shields.io/badge/Watch%20Demo-Play%20Video-red?style=for-the-badge&logo=googleplay)](https://github.com/Aakash0-04/intellidoc-rag/blob/main/demo-video/VIDEO_e38478a9-a564-4d7d-bb65-74d0fdeb151d.mp4)
 
 ## 🎯 What is IntelliDoc RAG?
 
