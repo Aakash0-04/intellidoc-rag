@@ -16,7 +16,9 @@
 </div>
 
 ---
-![](demo%20video/VIDEO_e38478a9-a564-4d7d-bb65-74d0fdeb151d.mp4)
+## 🎬 Demo
+
+![](demo-video/VIDEO_e38478a9-a564-4d7d-bb65-74d0fdeb151d.mp4)
 
 ## 🎯 What is IntelliDoc RAG?
 
