@@ -16,8 +16,8 @@
 </div>
 
 ---
-## 🎬 Demo
-<video src="https://github.com/Aakash0-04/intellidoc-rag/blob/main/demo%20video/VIDEO_e38478a9-a564-4d7d-bb65-74d0fdeb151d.mp4?raw=true" controls width="100%"></video>
+![](demo%20video/VIDEO_e38478a9-a564-4d7d-bb65-74d0fdeb151d.mp4)
+
 ## 🎯 What is IntelliDoc RAG?
 
 IntelliDoc RAG is a **production-ready Retrieval-Augmented Generation (RAG)** system that lets you chat with your own documents. Upload PDFs or Word files, and the AI answers your questions by retrieving the most relevant passages and generating grounded, cited responses — not hallucinations.
